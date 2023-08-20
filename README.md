@@ -23,4 +23,4 @@ By working through this project, users can gain a solid understanding of RDDs an
 
 5. **Results:** The results represent the outcomes of the Actions performed on the data. These results can be numeric values, lists of data, or the results of various computations derived from data processing.
 
-![image](Img/Architecture-Diagra.svg)
+![image](Img/Architecture-Diagram.svg)
