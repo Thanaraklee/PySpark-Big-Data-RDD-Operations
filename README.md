@@ -1,7 +1,10 @@
 # PySpark Big Data RDD Operations
 
-## Welcome to Project
-This project is focused on demonstrating how to use Apache Spark's Resilient Distributed Datasets (RDDs) and perform various transformation and action operations on them. RDDs are a fundamental data structure in Spark that enable parallel and distributed processing of data across a cluster of computers. This project showcases the creation of RDDs, applying transformation functions, and executing action functions on them.
+<p align="center">
+  <img src="https://camo.githubusercontent.com/7c65ec1949a034980db4db9e1068591c443fa5266dc424ecba5da7cb92f18f89/68747470733a2f2f7777772e676b7463732e696e2f6d656469612f626c6f675f706963732f323031392f30372f30322f7079737061726b2e706e67" alt="PySpark" />
+</p>
+
+Welcome to the "PySpark Big Data RDD Operations." In this project is focused on demonstrating how to use Apache Spark's Resilient Distributed Datasets (RDDs) and perform various transformation and action operations on them. RDDs are a fundamental data structure in Spark that enable parallel and distributed processing of data across a cluster of computers. This project showcases the creation of RDDs, applying transformation functions, and executing action functions on them.
 
 **What is this project ?** 
 This project serves as an educational resource for understanding the concepts of RDDs, transformations, and actions in Apache Spark. It provides code examples and explanations of different RDD operations, helping users gain hands-on experience with Spark's capabilities.
